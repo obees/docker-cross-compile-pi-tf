@@ -4,6 +4,7 @@ Cross compile tensorflow for raspberry pi3
 ## get the github repo
 ```
 > git clone https://github.com/obees/docker-cross-compile-pi-tf.git
+> git checkout pi3
 > cd docker-cross-compile-pi-tf.git
 ```
 
